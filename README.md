@@ -26,7 +26,7 @@ This page displays Organisational information.
 
 ![About us (2)](https://user-images.githubusercontent.com/108291615/179404145-ffce4275-be5b-4a98-ac4f-706dc8a4b825.png)
 # Master Data
-This page displays records based on 3 categories- Employee Types, Employee Category, Document Types. 
+This page display records based on 3 categories- Employee Types, Employee Category, Document Types. 
 User can alter and insert Employee records in each category.
 
 
