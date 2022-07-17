@@ -11,18 +11,23 @@ A website built for keeping all Employee details in an organisation. The user ha
 # Login Credentials
 For successful validation,user has to enter correct username and password.Current date displayed on top left corner of Login page.
 
-![Login](https://user-images.githubusercontent.com/108291615/179403823-d64d4773-cc8c-4193-9057-e6103ecb581a.png)
+
+![Login (2)](https://user-images.githubusercontent.com/108291615/179404008-db644da9-c63a-4df0-b997-736182bc817e.png)
 # Employee List
 This is the first page appears on the screen after successful validation.In this page user can able to search all Employee details based on Employee name,type and category.
 Also new Employee record can be inserted by user by inserting necessary details.Employee document can be uploaded and deleted if required. 
 ## Search Employees
-![Search](https://user-images.githubusercontent.com/108291615/179403833-5b2c09a8-f9b0-4ac7-829d-a5c9627a837a.png)
+![Search (2)](https://user-images.githubusercontent.com/108291615/179404118-e0260e84-a9e6-4207-94ea-638cd8c24baa.png)
 ## Insert Employees
-![Insert](https://user-images.githubusercontent.com/108291615/179403849-6caaff51-25d6-4f00-a0af-b7c73a7b7849.png)
+![Insert (2)](https://user-images.githubusercontent.com/108291615/179404137-2e68dd47-ec1c-4fa4-ac0e-6ad3cf01ae3a.png)
 # About Us
 This page displays Organisational information.
-![About us](https://user-images.githubusercontent.com/108291615/179403860-9cbd69c8-af30-4ee9-8a9b-01eea856fd64.png)
+
+
+![About us (2)](https://user-images.githubusercontent.com/108291615/179404145-ffce4275-be5b-4a98-ac4f-706dc8a4b825.png)
 # Master Data
 This page displays records based on 3 categories- Employee Types, Employee Category, Document Types. 
 User can alter and insert Employee records in each category.
-![Master Data](https://user-images.githubusercontent.com/108291615/179403886-efb96641-aefa-4ebe-9fe9-793a79a3d45e.png)
+
+
+![Master Data (2)](https://user-images.githubusercontent.com/108291615/179404151-11b36671-058f-401d-b9af-7d9b21dbcf9b.png)
