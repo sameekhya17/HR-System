@@ -1,5 +1,5 @@
 # HR-System
-A website built for keeping all Employee details in an organisation. The user has the access to add, delete and edit Employee details. 
+A website built for keeping all Employee details in an organisation. The user has the access to add, delete and edit Employee details.
 # Built with 
 ![image](https://user-images.githubusercontent.com/108291615/179401963-d7f359ab-a09b-4a03-a480-88eb006c43fa.png)
 ![image](https://user-images.githubusercontent.com/108291615/179402018-365cbfbf-9d95-4663-b1d1-615990355511.png)
@@ -10,6 +10,7 @@ A website built for keeping all Employee details in an organisation. The user ha
 ![image](https://user-images.githubusercontent.com/108291615/179402169-8680faed-c0ec-4712-848b-4c01e7f807b5.png)
 # Login Credentials
 For successful validation,user has to enter correct username and password.Current date displayed on top left corner of Login page.
+
 ![Login](https://user-images.githubusercontent.com/108291615/179403823-d64d4773-cc8c-4193-9057-e6103ecb581a.png)
 # Employee List
 This is the first page appears on the screen after successful validation.In this page user can able to search all Employee details based on Employee name,type and category.
